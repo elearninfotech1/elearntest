@@ -1,0 +1,21 @@
+.topbar {
+    background-color: red;
+    width: 250px;
+    height: 250px
+}
+
+p {
+    color: blue
+}
+
+.addstu {
+    width: 280px;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 20px;
+}
+
+.addstu input {
+    width: 100%;
+    margin-bottom: 25px;
+}
